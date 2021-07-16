@@ -148,20 +148,7 @@ p{
 .payment{
     margin-bottom: 70px;
 }  
-footer p{
-  
-  text-align: center;
-  width: 100%;
-  left:0 ;
-  bottom: 0;
- position: fixed;
-  background-color: rgb(156, 45, 45);
-  color:black;
-  padding: 8px;
-  font-size: 10px;
-  margin: 0;
-  
-} 
+
   *, *:before, *:after {
     box-sizing: inherit;
   }
